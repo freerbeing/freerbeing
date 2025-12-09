@@ -35,5 +35,5 @@ The practice of yoga requires no specific deeper beliefs, but it is common for t
 
 The sanskrit word for faith is śraddhā
 
->**Yoga sutras 1:21**\
+>**Yoga sutras 1:20**\
 >śraddhā-vīrya-smṛti-samādhi-prajñā-pūrvakaḥ itareśām
