@@ -2,7 +2,7 @@
 title: "How to Breathe"
 subtitle: "It just happens, right?"
 summary: "A clearer understanding of the actual mechanics involved can greatly help in achieving a strong and healthy breath"
-authors: []
+authors: ["Rich"]
 tags: ["breathe", "practice"]
 categories: []
 date: 2021-10-09T12:33:05+01:00

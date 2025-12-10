@@ -2,7 +2,7 @@
 title: "Una sencilla práctica de meditación en la respiración"
 subtitle: "Centra tu atención en la respiración al entrar y salir de la nariz"
 summary: "The goal is to focus attention, not to stop thoughts altogether"
-authors: []
+authors: ["Rich"]
 tags: ["practica", "la respiración","meditación"]
 categories: []
 date: 2021-08-18T20:03:09+01:00

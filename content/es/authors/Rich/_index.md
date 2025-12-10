@@ -4,7 +4,7 @@ title: un yogui invisible
 
 # Username (this should match the folder name)
 authors:
-- Kaivalyam
+- Rich
 
 # Is this the primary user of the site?
 superuser: true

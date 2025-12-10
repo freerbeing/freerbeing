@@ -2,7 +2,7 @@
 title: "Your Pain"
 subtitle: " Much of your pain is self-chosen"
 summary: "Your pain is the breaking of the shell that encloses your understanding"
-authors: []
+authors: ["Rich"]
 tags: ["poetry", "pain"]
 categories: []
 date: 2021-09-30T15:31:51+01:00

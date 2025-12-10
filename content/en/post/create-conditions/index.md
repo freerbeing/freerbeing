@@ -2,7 +2,7 @@
 title: "Create Conditions"
 subtitle: "We create the conditions in our micro environment so that we are in harmony, or not as the case may be, with the macro environment"
 summary: "We think we breathe the air, it is perhaps more accurate to state that the air breathes us"
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2021-10-04T16:35:00+01:00

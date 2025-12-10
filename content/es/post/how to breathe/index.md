@@ -2,7 +2,7 @@
 title: "Cómo Respirar"
 subtitle: "Simplemente ocurre, ¿verdad?"
 summary: "Una comprensión más clara de la mecánica real implicada puede ayudar en gran medida a lograr una respiración fuerte y saludable"
-authors: []
+authors: ["Rich"]
 tags: ["la respiración", "practica"]
 categories: []
 date: 2021-10-09T12:33:05+01:00

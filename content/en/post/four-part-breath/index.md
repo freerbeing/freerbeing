@@ -2,7 +2,7 @@
 title: "Four-part Breath"
 subtitle: "Each phase of the breath has its own qualities"
 summary: "Conscious breathing leads to vitality, health and a radiant energy and focuses and clears the mind, allowing the space for deeper experience"
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2021-10-04T16:34:40+01:00

@@ -2,7 +2,7 @@
 title: "Tu Dolor"
 subtitle: "Gran parte de tu dolor es elegido por ti mismo"
 summary: "Tu dolor es la ruptura de la cáscara que encierra tu entendimiento"
-authors: []
+authors: ["Rich"]
 tags: ["poesía", "dolor"]
 categories: []
 date: 2021-09-30T15:31:51+01:00

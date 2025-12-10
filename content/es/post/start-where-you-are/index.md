@@ -4,7 +4,7 @@ subtitle: "Y avanzar, lógica y adecuadamente"
 summary: "Las fórmulas escolásticas, esperando que todos los practicantes hagan
 lo mismo, cada vez, es como esperar que todos
 lleve la misma talla de pantalón"
-authors: []
+aauthors: ["Rich"]
 tags: ["practica"]
 categories: []
 date: 2021-08-24T12:32:06+01:00

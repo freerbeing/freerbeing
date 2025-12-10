@@ -2,7 +2,7 @@
 title: "Tres respiraciones conscientes"
 subtitle: "Una práctica rápida, sencilla y eficaz"
 summary: "Podemos cambiar conscientemente los pensamientos y sentimientos negativos y desagradables rompiendo deliberadamente su flujo"
-authors: []
+authors: ["Rich"]
 tags: ["practica", " la respiración","meditación"]
 categories: []
 date: 2021-08-23T18:40:33+01:00

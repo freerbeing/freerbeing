@@ -15,8 +15,32 @@
       {{ $link = . }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
+
     <div>
-      <h2><a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a></h2>
+      <h2>
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ .Title }}</a>
+      </h2>
+
+      {{/* Author link(s) + date + read time */}}
+      <p class="post-meta">
+        {{ i18n "postedBy" | default "By" }}
+        {{ $first := true }}
+        {{ with .Params.authors }}
+          {{ range . }}
+            {{ $authorID := . }}
+            {{ with site.GetPage (printf "authors/%s" (urlize $authorID)) }}
+              {{ if not $first }}, {{ end }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{ $first = false }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        <span class="middot-divider">·</span>
+        {{ .Date.Format "2006-01-02" }}
+        <span class="middot-divider">·</span>
+        {{ .ReadingTime }} min{{ if ne .ReadingTime 1 }}s{{ end }}
+      </p>
+
       <div class="article-style">
         {{ if .Params.summary }}
           {{ .Params.summary | plainify | emojify }}

@@ -2,7 +2,7 @@
 title: "Breath and Thought are Twins"
 subtitle: "Breath is central to yoga because breath is central to life"
 summary: "This is a two-way street with which we can work to our benefit"
-authors: []
+authors: ["Rich"]
 tags: ["breath", "thought", "practice", "meditation"]
 categories: []
 date: 2021-08-12T19:07:51+01:00

@@ -2,7 +2,7 @@
 title: "Where Does Yoga Come From?"
 subtitle: "Where does the Wisdom of Yoga come from? Exploring the origins, Earthly and otherwise, of the Yoga path."
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2020-12-01T18:03:19Z

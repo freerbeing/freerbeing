@@ -35,6 +35,12 @@
 
     <h3 class="article-title mb-0 mt-0">
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      <p class="post-meta">
+
+  <span class="middot-divider">...</span>
+  {{ .ReadingTime }} min{{ if ne .ReadingTime 1 }}s{{ end }}
+</p>
+
     </h3>
 
     {{ with $summary }}

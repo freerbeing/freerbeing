@@ -2,7 +2,7 @@
 title: "Postura perfecta"
 subtitle: "Esfuerzo sin esfuerzo"
 summary: "Ya sea en la meditación/respiración sentada, o durante la práctica trabajo corporal/āsana, hay dos elementos de la postura, primero el trabajo que realizamos para lograr la estabilidad, y segundo, el florecimiento de un espacio"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practica", "sthira + sukha", "asana"]
 categories: []
 date: 2021-08-14T13:59:59+01:00

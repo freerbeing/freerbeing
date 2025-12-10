@@ -2,7 +2,7 @@
 title: "Eres el héroe de tu propia historia"
 subtitle: "Los mitos de muchas épocas y culturas comparten elementos fundamentales"
 summary: "Muchos mitos de muchas épocas y culturas tratan de la evolución espiritual del individuo utilizando arquetipos, alegorías y simbolismos"
-authors: []
+authors: ["Rich"]
 tags: ["mitología", "caminos"]
 categories: []
 date: 2021-08-14T15:21:57+01:00

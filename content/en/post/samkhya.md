@@ -2,7 +2,7 @@
 title: "Samkhya and Yoga go Hand-in-hand."
 subtitle: "An understanding of *Samkhya* philosophy underpins and enriches Yoga practice."
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2020-09-17T19:53:07+01:00

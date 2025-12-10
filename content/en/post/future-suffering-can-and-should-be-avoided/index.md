@@ -4,7 +4,7 @@
 title: "Future Suffering Can and Should Be Avoided"
 subtitle: "We are responsible for our own actions and their results"
 summary: "There is suffering, there is a cause of suffering, there is an end to suffering, there is a path to the end of suffering"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "suffering", "noble truths"]
 categories: []
 date: 2021-08-12T18:03:55+01:00

@@ -4,7 +4,7 @@ subtitle: "Morality guides us to build healthy and fruitful relationships"
 summary: "An established decency and integrity in how we
  interact with those around us provides a firm foundation
 for us to walk our individual paths on"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practice", "yamas"]
 categories: []
 date: 2021-08-12T19:18:49+01:00

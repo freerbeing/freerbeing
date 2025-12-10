@@ -2,7 +2,7 @@
 title: "Loving Kindness Meditation"
 subtitle: "May all beings be happy"
 summary: "Cultivation of positive loving feelings towards others works to support us, and others, as we walk our paths towards freedom"
-authors: []
+authors: ["Rich"]
 tags: ["meditation"]
 categories: []
 date: 2021-09-23T12:25:57+01:00

@@ -2,7 +2,7 @@
 title: "We Shall not Cease from Exploration"
 subtitle: "Little Gidding: T. S. Eliot (1943)"
 summary: "And the end of all our exploring will be to arrive where we started"
-authors: []
+authors: ["Rich"]
 tags: ["poetry"]
 categories: []
 date: 2021-08-08T15:47:42+01:00

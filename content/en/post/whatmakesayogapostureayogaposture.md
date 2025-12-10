@@ -2,7 +2,7 @@
 title: "What Makes a Yoga Posture a Yoga Posture?"
 subtitle: "What are the defining characteristics that make a yoga posture a yoga posture?"
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2020-09-18T15:21:48+01:00

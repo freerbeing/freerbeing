@@ -2,7 +2,7 @@
 title: "Patañjali's Yoga Sutras"
 subtitle: "Patañjali defines yoga, what it is for, what it does and what principles are required to practice it"
 summary: "It is the original self-help manual"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "Patañjali"]
 categories: []
 date: 2021-09-09T17:33:35+01:00

@@ -2,7 +2,7 @@
 title: "Samkhya and Yoga, Hand-in-Hand"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2021-09-09T19:48:53+01:00

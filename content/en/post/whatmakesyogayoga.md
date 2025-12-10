@@ -2,7 +2,7 @@
 title: "What Makes Yoga Yoga?"
 subtitle: "Discussing the defining characteristics of Yoga."
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2020-09-17T19:10:06+01:00

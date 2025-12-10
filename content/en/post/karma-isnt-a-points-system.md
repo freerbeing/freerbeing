@@ -2,7 +2,7 @@
 title: "Karma Isn't a Points System"
 subtitle: "Discussing karma how it works and what it means for us on our life journey"
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2020-12-01T17:54:50Z

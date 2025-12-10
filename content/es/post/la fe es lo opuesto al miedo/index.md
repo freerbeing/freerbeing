@@ -2,7 +2,7 @@
 title: "La Fe es lo Opuesto al Miedo"
 subtitle: "... y, por lo tanto, el antídoto"
 summary: "La fe no es una creencia ciega o una esclavitud mental a la doctrina, el credo o el evangelio"
-authors: []
+authors: ["Rich"]
 tags: ["fe", "miedo"]
 categories: []
 date: 2021-09-09T17:54:19+01:00

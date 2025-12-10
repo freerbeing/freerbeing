@@ -2,7 +2,7 @@
 title: "Three Ways to Know"
 subtitle: "The purpose of spiritual practice is to come to know"
 summary: "With knowing we achieve wisdom, and wisdom bestows such gifts as freedom, joy and harmony"
-authors: []
+authors: ["Rich"]
 tags: ["knowing", "Samkhya", Yoga sutras"]
 categories: []
 date: 2021-08-18T20:03:21+01:00

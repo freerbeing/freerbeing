@@ -2,7 +2,7 @@
 title: "En nuestra práctica nos comprometemos con el propósito de la vida"
 subtitle: "El Espíritu ilumina y anima la Naturaleza"
 summary: "¿Por qué la vida? ¿Por qué nuestras vidas individuales?"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "samkhya", "Espíritu y Naturaleza"]
 categories: []
 date: 2021-08-12T18:52:43+01:00

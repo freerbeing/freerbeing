@@ -4,7 +4,7 @@ subtitle: "La moral nos guía para construir relaciones sanas y fructíferas"
 summary: "Decencia e integridad establecidas en la forma en que
  interactuar con los que nos rodean proporciona una base firme
 para que podamos recorrer nuestros caminos individuales"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practica", "yamas"]
 categories: []
 date: 2021-08-12T19:18:49+01:00

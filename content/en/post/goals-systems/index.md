@@ -2,7 +2,7 @@
 title: "Goals, Systems"
 subtitle: "Positive habits are like a bicycle, efficiently supporting us to move speedily along the path to our destination"
 summary: "A goal to work towards gives us the structure and direction essential to arrival at success"
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2021-10-04T16:34:11+01:00

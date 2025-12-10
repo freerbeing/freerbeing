@@ -2,7 +2,7 @@
 title: "Cinco Verdades de la Hombria"
 subtitle: "Una plantilla para una vida espiritual práctica y pragmática, en la que los hombres son útiles, productivos, sensibles y fuertes"
 summary: "El propósito de un hombre es cuidar de toda la vida que le rodea"
-authors: []
+authors: ["Rich"]
 tags: ["mitología", "viaje del héroe", "hombria"]
 categories: []
 date: 2021-09-25T13:20:53+01:00

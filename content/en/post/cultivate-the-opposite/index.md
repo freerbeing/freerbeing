@@ -2,7 +2,7 @@
 title: "Cultivate the Opposite"
 subtitle: "Cultivating positive attitudes is more effective than struggling with negative ones"
 summary: "Consideration and care towards others, and towards ourselves, combined with appropriate, committed spiritual practice supports us"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practice"]
 categories: []
 date: 2021-08-14T13:59:11+01:00

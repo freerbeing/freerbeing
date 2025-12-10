@@ -2,7 +2,7 @@
 title: "Tres formas de saber"
 subtitle: "El propósito de la práctica espiritual es llegar a conocer"
 summary: "Con el conocimiento alcanzamos la sabiduría, y la sabiduría otorga regalos como la libertad, la alegría y la armonía"
-authors: []
+authors: ["Rich"]
 tags: ["saber", "Samkhya", Yoga sutras"]
 categories: []
 date: 2021-08-18T20:03:21+01:00

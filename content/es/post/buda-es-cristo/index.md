@@ -2,7 +2,7 @@
 title: "Buda es Cristo"
 subtitle: "Cristo no es el apellido de Jesús"
 summary: "El propósito central de todas las tradiciones de práctica espiritual es tomar conciencia de nosotros mismos como esta Realidad Interior, para reconocer nuestra propia naturaleza de Cristo/Buda"
-authors: []
+authors: ["Rich"]
 tags: ["Cristianismo", "Buddhism"]
 categories: []
 date: 2021-08-18T20:02:09+01:00

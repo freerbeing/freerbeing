@@ -2,7 +2,7 @@
 title: "Work, Accept"
 subtitle: "We are not in control of the results of our actions but we must, nevertheless, act"
 summary: "Fruitful practice, and equally a fruitful life, is achieved by managing a harmony between two seeming opposites"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practice", "abhyāsa + vairāgyā"]
 categories: []
 date: 2021-10-01T23:42:48+01:00

@@ -2,7 +2,7 @@
 title: "Viaje y Destino"
 subtitle: "El asentamiento de la mente en el silencio"
 summary: "Patañjali comienza los Yoga Sutras con lo que podemos llamar una 'definición clásica' del yoga"
-authors: []
+authors: ["Rich"]
 tags: ["Patañjali", "yoga sutras"]
 categories: []
 date: 2021-09-27T18:18:54+01:00

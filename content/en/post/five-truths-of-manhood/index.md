@@ -2,7 +2,7 @@
 title: "Five Truths of Manhood"
 subtitle: "A template for a practical and pragmatic spiritual life, where men are useful, productive, sensitive and strong"
 summary: "The purpose of a man is to look after all the life around him"
-authors: []
+authors: ["Rich"]
 tags: ["mythology", "hero's journey", "manhood"]
 categories: []
 date: 2021-09-25T13:20:53+01:00

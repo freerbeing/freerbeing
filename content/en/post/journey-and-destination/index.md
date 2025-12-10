@@ -2,7 +2,7 @@
 title: "Journey and Destination"
 subtitle: "The settling of the mind into silence"
 summary: "Patañjali begins the Yoga Sutras with what we can call a 'classical definition' of yoga"
-authors: []
+authors: ["Rich"]
 tags: ["Patañjali", "yoga sutras"]
 categories: []
 date: 2021-09-27T18:18:54+01:00

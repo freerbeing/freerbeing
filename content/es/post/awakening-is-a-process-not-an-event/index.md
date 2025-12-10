@@ -2,7 +2,7 @@
 title: "El despertar es un proceso, no un acontecimiento"
 subtitle: "El camino es largo, avanzamos paso a paso"
 summary: "El proceso de despertar es la eliminación/desenvolvimiento constante de nuestras propias limitaciones y bloqueos creados por nosotros mismos"
-authors: []
+authors: ["Rich"]
 tags: ["Buddhism", "practica", "Dhammapada"]
 categories: []
 date: 2021-08-18T20:05:14+01:00

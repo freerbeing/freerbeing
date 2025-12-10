@@ -4,7 +4,7 @@ subtitle: "And move forwards, logically and appropriately"
 summary: "Off-the-peg formulas, expecting all practitioners to do
 the same thing, every time, is like expecting everyone
 to wear the same-sized trousers"
-authors: []
+authors: ["Rich"]
 tags: ["practice"]
 categories: []
 date: 2021-08-24T12:32:06+01:00

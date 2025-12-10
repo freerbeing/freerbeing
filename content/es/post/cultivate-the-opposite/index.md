@@ -2,7 +2,7 @@
 title: "Cultivar lo contrario"
 subtitle: "Cultivar actitudes positivas es más eficaz que luchar contra las negativas"
 summary: "La consideración y el cuidado hacia los demás y hacia nosotros mismos, combinados con una práctica espiritual adecuada y comprometida, nos apoyan"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practica"]
 categories: []
 date: 2021-08-14T13:59:11+01:00

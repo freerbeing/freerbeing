@@ -2,7 +2,7 @@
 title: "Trabajar, Aceptar"
 subtitle: "No controlamos los resultados de nuestras acciones, pero debemos actuar"
 summary: "Una práctica fructífera, e igualmente una vida fructífera, se consigue gestionando una armonía entre dos aparentes opuestos"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practica", "abhyāsa + vairāgyā"]
 categories: []
 date: 2021-10-01T23:42:48+01:00

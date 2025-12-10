@@ -1,10 +1,10 @@
 ---
 # Display name
-title: an invisible yogi
+title: Rich
 
 # Username (this should match the folder name)
-authors:
-- Kaivalyam
+authors: 
+- Rich
 
 # Is this the primary user of the site?
 superuser: true
@@ -13,7 +13,7 @@ superuser: true
 role: Freedom-finder . Path-walker
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: I like Yoga.
 
 interests:
 - Practical, successful, application of principles of spirituality

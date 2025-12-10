@@ -2,7 +2,7 @@
 title: "Success is Guaranteed"
 subtitle: "... and close, for those who are dedicated and commit"
 summary: "As with anything in life success on the spiritual path depends largely, if not exclusively, on how much we put in to achieving our aims"
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: 2021-11-25T16:33:39+01:00

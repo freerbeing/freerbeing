@@ -2,7 +2,7 @@
 title: "With Practice"
 subtitle: "Our Inner Truth has a great many names in a great variety of cultures and traditions but is universally recognised"
 summary: "The central principle of all contemplative spiritual practice is that we can all achieve higher knowledge, and thus the freedom and joy of liberation,  by means of the quietening of the mind"
-authors: []
+authors: ["Rich"]
 tags: ["practice", "Deepest Truth"]
 categories: []
 date: 2021-08-25T14:01:40+01:00

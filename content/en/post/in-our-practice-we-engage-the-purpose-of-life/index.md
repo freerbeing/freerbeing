@@ -2,7 +2,7 @@
 title: "In our Practice we Engage the Purpose of Life"
 subtitle: "Spirit illuminates and animates Nature"
 summary: "Why Life? Why our individual lives?"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "samkhya", "Spirit + Nature"]
 categories: []
 date: 2021-08-12T18:52:43+01:00

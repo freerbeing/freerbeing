@@ -2,7 +2,7 @@
 title: "Con la práctica"
 subtitle: "Nuestra Verdad Interior tiene muchos nombres en una gran variedad de culturas y tradiciones, pero es universalmente reconocida"
 summary: "El principio central de toda práctica espiritual contemplativa es que todos podemos alcanzar el conocimiento superior, y por tanto la libertad y la alegría de la liberación, mediante el aquietamiento de la mente"
-authors: []
+authors: ["Rich"]
 tags: ["practica", "La verdad más profunda"]
 categories: []
 date: 2021-08-25T14:01:40+01:00

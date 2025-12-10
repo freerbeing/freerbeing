@@ -2,7 +2,7 @@
 title: "Faith is the Opposite of Fear"
 subtitle: "... and, thus, the antidote"
 summary: "Faith is not blind belief or mental slavery to doctrine, creed nor gospel"
-authors: []
+authors: ["Rich"]
 tags: ["faith", "fear"]
 categories: []
 date: 2021-09-09T17:54:19+01:00

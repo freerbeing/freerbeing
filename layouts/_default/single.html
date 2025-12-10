@@ -6,11 +6,24 @@
   <div class="article-container">
     <div class="article-style">
       {{ .Content }}
+     <p class="post-meta">
+  {{ i18n "postedBy" | default "Author: " }}
+  {{ $first := true }}
+  {{ range .Param "authors" }}
+    {{ $authorID := . }}
+    {{ with site.GetPage (printf "authors/%s" (urlize $authorID)) }}
+      {{ if not $first }}, {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ $first = false }}
+    {{ end }}
+  {{ end }}
+</p>
+
+</p>
     </div>
 
     {{ partial "page_footer" . }}
 
   </div>
 </article>
-
 {{- end -}}

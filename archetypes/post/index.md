@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["Rich"]
 tags: []
 categories: []
 date: {{ .Date }}

@@ -5,7 +5,7 @@ summary: "Whether in seated meditation/breathing, or during active
 bodywork/āsana practice, two elements of posture are
 involved; the work we do to achieve stability, first,
 supports, second, the blossoming into a spaciousness"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "practice", "sthira + sukha", "asana"]
 categories: []
 date: 2021-08-14T13:59:59+01:00

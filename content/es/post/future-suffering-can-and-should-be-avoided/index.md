@@ -2,7 +2,7 @@
 title: "El sufrimiento futuro puede y debe evitarse"
 subtitle: "Somos responsables de nuestros propios actos y de sus resultados"
 summary: "Hay sufrimiento, hay una causa del sufrimiento, hay un fin del sufrimiento, hay un camino para el fin del sufrimiento"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "sufrimiento", "verdades nobles"]
 categories: []
 date: 2021-08-12T18:03:55+01:00

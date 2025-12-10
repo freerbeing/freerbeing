@@ -2,7 +2,7 @@
 title: "Buddha is Christ"
 subtitle: "Christ is not Jesus' surname"
 summary: "The core purpose of all spiritual practice traditions is to become aware of ourselves as this Inner Reality, to recognise our Christ/Buddha nature"
-authors: []
+authors: ["Rich"]
 tags: ["Christianity", "Buddhism"]
 categories: []
 date: 2021-08-18T20:02:09+01:00

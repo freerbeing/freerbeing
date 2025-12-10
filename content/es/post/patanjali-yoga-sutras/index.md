@@ -2,7 +2,7 @@
 title: "Los Yoga Sutras de Patañjali"
 subtitle: "Patañjali define el yoga, para qué sirve, qué hace y qué principios se requieren para practicarlo"
 summary: "Es el manual original de autoayuda"
-authors: []
+authors: ["Rich"]
 tags: ["yoga sutras", "Patañjali"]
 categories: []
 date: 2021-09-09T17:33:35+01:00

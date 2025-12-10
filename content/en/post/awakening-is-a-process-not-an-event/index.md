@@ -2,7 +2,7 @@
 title: "Awakening is a Process not an Event"
 subtitle: "The path is long, we move forwards step by step"
 summary: "The process of awakening is the steady removal/unwinding of our own self-created limitations and blocks"
-authors: []
+authors: ["Rich"]
 tags: ["Buddhism", "practice", "Dhammapada"]
 categories: []
 date: 2021-08-18T20:05:14+01:00
