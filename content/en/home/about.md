@@ -3,7 +3,7 @@
 widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 120  # Order that this section will appear in.
+weight = 1200  # Order that this section will appear in.
 
 title = "Biography"
 
